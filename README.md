@@ -2,7 +2,7 @@
 
 我的个人主页是[Sleepycat's Pages](https://sleepycat1010.github.io/Sleepycat/) 你可以通过我的个人主页去浏览我的一些个人联系方式
 
-###以下是我的一些社区联系方式：
+### Contact Information List：
 
 以下的游戏社区方式联系，Steam通常能找到我，STCN我每天都会不间断地看一到三次，网易云音乐随缘听歌，Dropbox每天都会看一下，但是这个只限于给我分享一些文件，当然也包括你们可能原创的一些文章和想问我的问题，文章我会筛选后上传到“蒸汽帮”，问题包括但不仅限于音乐、游戏、计算机语言等方面。
 
@@ -14,26 +14,23 @@
 6. 守望先锋美服：[Sleepycat](https://playoverwatch.com/zh-tw/career/pc/Sleepycat-1925)
 7. Dropbox上传：[Haoran](https://www.dropbox.com/request/aNf8r1cVX06JXtj6RLAl)
 
-### Markdown
+### My Article List：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这些是一些我在蒸汽帮上发表过的文章，列表会持续更新。
 
-```markdown
-Syntax highlighted code block
+```article
 
-# Header 1
-## Header 2
-### Header 3
+- [猫言睡语第一期](https://steambang.com/common/share/article/1937/)
+- [猫言睡语第二期](http://steamcommunity.com/id/573215068)
+- [猫言睡语第三期](http://steamcommunity.com/id/573215068)
+- [猫言睡语第四期](http://steamcommunity.com/id/573215068)
+- [猫言睡语第五期](http://steamcommunity.com/id/573215068)
+- [猫言睡语第六期](http://steamcommunity.com/id/573215068)
+- [Sleepycat](http://steamcommunity.com/id/573215068)
+- [Sleepycat](http://steamcommunity.com/id/573215068)
+- [Sleepycat](http://steamcommunity.com/id/573215068)
+- [Sleepycat](http://steamcommunity.com/id/573215068)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
