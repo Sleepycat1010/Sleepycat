@@ -18,27 +18,33 @@
 
 这些是一些我在蒸汽帮上发表过的文章，列表会持续更新。
 
-```article
-
 - [猫言睡语第一期](https://steambang.com/common/share/article/1937/)
-- [猫言睡语第二期](http://steamcommunity.com/id/573215068)
-- [猫言睡语第三期](http://steamcommunity.com/id/573215068)
-- [猫言睡语第四期](http://steamcommunity.com/id/573215068)
-- [猫言睡语第五期](http://steamcommunity.com/id/573215068)
-- [猫言睡语第六期](http://steamcommunity.com/id/573215068)
-- [Sleepycat](http://steamcommunity.com/id/573215068)
-- [Sleepycat](http://steamcommunity.com/id/573215068)
-- [Sleepycat](http://steamcommunity.com/id/573215068)
-- [Sleepycat](http://steamcommunity.com/id/573215068)
+- [猫言睡语第二期](https://steambang.com/common/share/article/2030/)
+- [猫言睡语第三期](https://steambang.com/common/share/article/2128/)
+- [猫言睡语第四期](https://steambang.com/common/share/article/2250/)
+- [猫言睡语第五期](https://steambang.com/common/share/article/2943/)
+- [猫言睡语第六期](https://steambang.com/common/share/article/4222/)
+- [快速脚本合卡教程](https://steambang.com/common/share/article/1850/)
+- [Steam集换卡教程1](https://steambang.com/common/share/article/267/)
+- [Steam集换卡教程2](https://steambang.com/common/share/article/285/)
+- [Steam集换卡教程3](https://steambang.com/common/share/article/314/)
+- [Steam集换卡教程4](https://steambang.com/common/share/article/2322/)
+- [快速激活Steam Key教程](https://steambang.com/common/share/article/384/)
+- [升级捷径，促销期间的升级指南](https://steambang.com/common/share/article/4369/)
+
+我的文章均发表在 [蒸汽帮](https://steambang.com/).
+
+### About Subsequent Development
+
+```SD
+
+蒸汽帮域名下的云挂卡还在筹建当中，希望能早日和大家见面。
+我的个人博客也在计划之中，之后会加入更多的功能。
+QQ群正在建设，目前的群号是：94478722，希望能有更多的朋友加入。
+我的其他个人资料将会在以后逐渐完善。
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sleepycat1010/Sleepycat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+看到网页有问题？     请到我的个人社区联系方式处找到我解决
