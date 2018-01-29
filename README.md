@@ -8,9 +8,9 @@
 
 **1. 微信：[二维码](http://imgsrc.baidu.com/forum/pic/item/a2585518367adab44b4af9df81d4b31c8601e452.jpg)**
 
-**2. QQ大号：[二维码](http://imgsrc.baidu.com/forum/pic/item/e6708f6034a85edf03a112bf43540923dd54753b.jpg)**
+**2. QQ大号：[二维码](http://imgsrc.baidu.com/forum/pic/item/e95d5401a18b87d62f0649830d0828381e30fdac.jpg)**
 
-**3. QQ小号：[二维码](http://imgsrc.baidu.com/forum/pic/item/e95d5401a18b87d62f0649830d0828381e30fdac.jpg)**
+**3. QQ小号：[二维码](http://imgsrc.baidu.com/forum/pic/item/e6708f6034a85edf03a112bf43540923dd54753b.jpg)**
 
 **4. Steam:[Sleepycat](http://steamcommunity.com/id/573215068)**
 
@@ -93,7 +93,8 @@ Discord一般我在电脑面前就会在Discord里面，发消息我可能看不
 还有想加Uplay的同学，加上Steam好友之后可以同步，我就不赘述了！
 你要想了解睡猫更多，欢迎点击“睡猫的个人名片”哟~
 当然了，土豪们有专用的投食链接，点击上面的“微信投食”或者“支付宝投食”就行了，还是需要长按再点击“识别图中二维码”哒。
-请认准我的Steam和QQ1号头像：*
+请认准我的Steam和QQ小号头像：*
+
 ![Sleepycat Icon](https://alicliimg.clewm.net/377/860/1860377/15003094989350544402b1a0971317b2d80bcfe9d266a1500309057.png)
 
 ### Support or Contact
