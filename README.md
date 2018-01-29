@@ -2,7 +2,7 @@
 
 我的个人主页是[Sleepycat's Pages](https://sleepycat1010.github.io/Sleepycat/) 你可以通过我的个人主页去浏览我的一些个人联系方式
 
-###  Contact Information List
+###  Contact Information List：
 
 以下的游戏社区方式联系，Steam通常能找到我，STCN我每天都会不间断地看一到三次，网易云音乐随缘听歌，Dropbox每天都会看一下，但是这个只限于给我分享一些文件，当然也包括你们可能原创的一些文章和想问我的问题，文章我会筛选后上传到“蒸汽帮”，问题包括但不仅限于音乐、游戏、计算机语言等方面。
 
@@ -32,24 +32,40 @@
 
 **13. 睡猫的个人名片：[Sleepycat](http://steamcommunity.com/id/573215068)**
 
+**14. 睡猫微信投食链接：[扫一扫](http://imgsrc.baidu.com/forum/pic/item/885addf41bd5ad6e6604b4768bcb39dbb7fd3c6b.jpg)**
+
+**15. 睡猫支付宝投食链接：[扫一扫](http://imgsrc.baidu.com/forum/pic/item/96febf81800a19d82daf549939fa828ba71e4644.jpg)**
+
 ![Sleepycat signature](https://www.steamprices.com/cards/ekFOT0N0SHd0TDB5SmpmdGt5THpWdz09.png)
 
-### My Article List
+### My Article List：
 
 *这些是一些我在蒸汽帮上发表过的文章，列表会持续更新。*
 
 **[猫言睡语第一期](https://steambang.com/common/share/article/1937/)**
+
 **[猫言睡语第二期](https://steambang.com/common/share/article/2030/)**
+
 **[猫言睡语第三期](https://steambang.com/common/share/article/2128/)**
+
 **[猫言睡语第四期](https://steambang.com/common/share/article/2250/)**
+
 **[猫言睡语第五期](https://steambang.com/common/share/article/2943/)**
+
 **[猫言睡语第六期](https://steambang.com/common/share/article/4222/)**
+
 **[快速脚本合卡教程](https://steambang.com/common/share/article/1850/)**
+
 **[Steam集换卡教程1](https://steambang.com/common/share/article/267/)**
+
 **[Steam集换卡教程2](https://steambang.com/common/share/article/285/)**
+
 **[Steam集换卡教程3](https://steambang.com/common/share/article/314/)**
+
 **[Steam集换卡教程4](https://steambang.com/common/share/article/2322/)**
+
 **[快速激活Steam Key教程](https://steambang.com/common/share/article/384/)**
+
 **[升级捷径，促销期间的升级指南](https://steambang.com/common/share/article/4369/)**
 
 我的文章均发表在 [蒸汽帮](https://steambang.com/).
