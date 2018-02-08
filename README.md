@@ -8,11 +8,11 @@
 
 **1. 微信：[二维码](http://imgsrc.baidu.com/forum/pic/item/a2585518367adab44b4af9df81d4b31c8601e452.jpg)**
 
-**2. QQ大号：[二维码](http://imgsrc.baidu.com/forum/pic/item/e95d5401a18b87d62f0649830d0828381e30fdac.jpg)**
+**2. 微博：[睡猫Sleepycat](https://weibo.com/713455833)**
 
-**3. QQ小号：[二维码](http://imgsrc.baidu.com/forum/pic/item/e6708f6034a85edf03a112bf43540923dd54753b.jpg)**
+**3. QQ大号：[二维码](http://imgsrc.baidu.com/forum/pic/item/e95d5401a18b87d62f0649830d0828381e30fdac.jpg)**
 
-**4. 微博：(https://weibo.com/713455833)**
+**4. QQ小号：[二维码](http://imgsrc.baidu.com/forum/pic/item/e6708f6034a85edf03a112bf43540923dd54753b.jpg)**
 
 **5. Steam:[Sleepycat](http://steamcommunity.com/id/573215068)**
 
