@@ -18,25 +18,27 @@
 
 **6. SteamCN：[Sleepycat](https://steamcn.com/?459600)**
 
-**7. Discord：[骑上我心爱的小耗子](https://discordapp.com/invite/AqcT3hR)**
+**7. 部落冲突：[Sleepycat](https://link.clashofclans.com/?action=OpenPlayerProfile&tag=RJ8L9QLV)**
 
-**8. Facebook：[Leo Lin](https://www.facebook.com/LEOLEOLEOLIN)**
+**8. Discord：[骑上我心爱的小耗子](https://discordapp.com/invite/AqcT3hR)**
 
-**9. 网易云音乐：[炮弹Leo](http://music.163.com/#/user/home?id=149187)**
+**9. Facebook：[Leo Lin](https://www.facebook.com/LEOLEOLEOLIN)**
 
-**10. 英雄联盟国服：[MAX丶Lucifer](http://lol.qq.com/web201310/personal.shtml?id=2931868356&area=3&showDiv=1)**
+**10. 网易云音乐：[炮弹Leo](http://music.163.com/#/user/home?id=149187)**
 
-**11. 英雄联盟美服：[OMG Sleepycat](https://matchhistory.na.leagueoflegends.com/en/#match-history/NA1/203783033)**
+**11. 英雄联盟国服：[MAX丶Lucifer](http://lol.qq.com/web201310/personal.shtml?id=2931868356&area=3&showDiv=1)**
 
-**12. 守望先锋美服：[Sleepycat](https://playoverwatch.com/zh-tw/career/pc/Sleepycat-1925)**
+**12. 英雄联盟美服：[OMG Sleepycat](https://matchhistory.na.leagueoflegends.com/en/#match-history/NA1/203783033)**
 
-**13. Dropbox上传：[Haoran](https://www.dropbox.com/request/aNf8r1cVX06JXtj6RLAl)**
+**13. 守望先锋美服：[Sleepycat](https://playoverwatch.com/zh-tw/career/pc/Sleepycat-1925)**
 
-**14. 睡猫的个人名片：[Sleepycat](http://steamcommunity.com/id/573215068)**
+**14. Dropbox上传：[Haoran](https://www.dropbox.com/request/aNf8r1cVX06JXtj6RLAl)**
 
-**15. 睡猫微信投食链接：[扫一扫](http://imgsrc.baidu.com/forum/pic/item/885addf41bd5ad6e6604b4768bcb39dbb7fd3c6b.jpg)**
+**15. 睡猫的个人名片：[Sleepycat](http://steamcommunity.com/id/573215068)**
 
-**16. 睡猫支付宝投食链接：[扫一扫](http://imgsrc.baidu.com/forum/pic/item/96febf81800a19d82daf549939fa828ba71e4644.jpg)**
+**16. 睡猫微信投食链接：[扫一扫](http://imgsrc.baidu.com/forum/pic/item/885addf41bd5ad6e6604b4768bcb39dbb7fd3c6b.jpg)**
+
+**17. 睡猫支付宝投食链接：[扫一扫](http://imgsrc.baidu.com/forum/pic/item/96febf81800a19d82daf549939fa828ba71e4644.jpg)**
 
 ![Sleepycat signature](https://www.steamprices.com/cards/ekFOT0N0SHd0TDB5SmpmdGt5THpWdz09.png)
 
@@ -55,6 +57,8 @@
 **[猫言睡语第五期](https://steambang.com/common/share/article/2943/)**
 
 **[猫言睡语第六期](https://steambang.com/common/share/article/4222/)**
+
+**[猫言睡语第六期](https://www.steambang.com/common/share/article/4651/)**
 
 **[快速脚本合卡教程](https://steambang.com/common/share/article/1850/)**
 
