@@ -58,7 +58,7 @@
 
 **[猫言睡语第六期](https://steambang.com/common/share/article/4222/)**
 
-**[猫言睡语第六期](https://www.steambang.com/common/share/article/4651/)**
+**[猫言睡语第七期](https://www.steambang.com/common/share/article/4651/)**
 
 **[快速脚本合卡教程](https://steambang.com/common/share/article/1850/)**
 
